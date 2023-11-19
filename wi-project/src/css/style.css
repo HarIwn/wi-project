@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.css-Vnz2y a {
+    color: #000;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.css-Bz7nz {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 2em;
+}
+
+.css-Fzn2s {
+    background: #FFFF ;
+    width: 100%;
+    border-bottom: 1px solid #000;
+}
+
+.css-Hz2mn ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.css-Hz2mn li a {
+    color: #000;
+    font-family: sans-serif;
+    text-decoration: none;
+}
+
+.css-Hz2mn li {
+    margin: 0 1em;
+}
